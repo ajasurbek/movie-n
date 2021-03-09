@@ -1,0 +1,16 @@
+.actor__card {
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px 5px rgba(43, 6, 209, 0.3);
+}
+.actor__img {
+    padding: 10px;
+    margin: 0 auto;
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+}
+.name {
+    text-align: center;
+}
